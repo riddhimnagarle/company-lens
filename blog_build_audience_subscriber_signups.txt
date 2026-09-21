@@ -1,0 +1,55 @@
+SOURCE_URL: https://ghost.org/resources/build-audience-subscriber-signups/
+PAGE_TYPE: blog
+SCRAPE_DATE: 2026-09-20
+TITLE: Building your audience with subscriber signups
+------------------------------------------------------------
+Publishing content and growing your audience using the same platform is what sets Ghost apart from other products. Rather than posting content and hoping it gets seen, you can actually attract sign-ups and build an authentic audience. The feature that makes all this possible is called
+Portal
+.
+Portal is an embedded interface your audience uses to sign up to your site. It works on every Ghost site, with every theme, for any type of publisher.
+You can customize Portal's design, content, and settings, and decide whether you want people to sign up to a free newsletter, or run a premium publication with paid subscriptions.
+Settings
+→
+Membership
+→
+Portal
+→
+Portal settings
+→
+Customize
+Once people sign up, they'll receive an email confirmation with a link. The link acts as an automatic sign-in, so subscribers will be automatically logged into your site when they click it.
+There are many benefits to accepting sign-ups:
+Subscribers become registered members, so you can choose to restrict access to posts and pages and make them accessible to members only.
+All members sign in using secure email authentication links, so there are no passwords to set or forget, and you don't need to worry about spam.
+With just a few clicks, you can send any post as an email newsletter to all or only a segment of your members.
+Once visitors become members, you'll get insightful data about which posts they've read and which emails they've opened.
+Portal makes all of this possible. It appears by default as a floating button in the bottom-right corner of your site. When members are logged out, clicking it opens a sign-up/sign-in window. When they're logged in, clicking the Portal button will open their member account menu, where they can edit their name, email, and subscription settings.
+The floating Portal button is entirely optional. If you prefer, you can trigger it by adding manual links to your content, navigation, or theme instead.
+Like this:
+Subscribe to the Ghost newsletter here
+!
+Social networks go in and out of fashion all the time. Email addresses are timeless.
+Now that you've started thinking about growing your audience, let's take a look at how you can seamlessly deliver new content by
+sending new posts as email newsletters
+.
+On this page
+Introduction
+— Read this next —
+How to setup your Ghost publication
+Get trends & tips delivered to you.
+A weekly roundup of emerging trends, products and ideas in the creator economy, trusted by
+50,000+
+readers.
+Subscribe
+Email sent
+Try again
+No spam. No jibberjabber. Unsubscribe any time.
+Wow,
+@Ghost
+is killing it today with their newsletter. It may just be me, but it seems like more time and care is being spent every week on it. If you can show me a link about my obsession I didn’t know about yet — that’s something.
+2:22 PM · 13 Jun 2021
+@Ghost
+has been my favorite company newsletter of 2022
+6:21 PM · 4 Apr 2022
+Ok, the Ghost newsletter is hands down the best newsletter in my inbox and it is not even close. There's not a single other one that I am going back to read or look forward to getting. Excellent job!
+6:09 PM · 17 Apr 2022
