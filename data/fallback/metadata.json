@@ -1,0 +1,42 @@
+[
+  {
+    "source_url": "https://ghost.org/about/",
+    "page_type": "about",
+    "scrape_date": "2026-09-20",
+    "title": "About Ghost - The Open Source Publishing Platform",
+    "local_file": "about.txt",
+    "char_count": 5361
+  },
+  {
+    "source_url": "https://ghost.org/resources/how-to-publish-your-first-post/",
+    "page_type": "blog",
+    "scrape_date": "2026-09-20",
+    "title": "How to publish your first post",
+    "local_file": "blog_how_to_publish_your_first_post.txt",
+    "char_count": 4955
+  },
+  {
+    "source_url": "https://ghost.org/resources/build-audience-subscriber-signups/",
+    "page_type": "blog",
+    "scrape_date": "2026-09-20",
+    "title": "Building your audience with subscriber signups",
+    "local_file": "blog_build_audience_subscriber_signups.txt",
+    "char_count": 3100
+  },
+  {
+    "source_url": "https://careers.ghost.org/",
+    "page_type": "careers",
+    "scrape_date": "2026-09-20",
+    "title": "Ghost",
+    "local_file": "careers.txt",
+    "char_count": 7851
+  },
+  {
+    "source_url": "https://ghost.org/changelog/",
+    "page_type": "news",
+    "scrape_date": "2026-09-20",
+    "title": "Ghost Changelog \u2014 The latest feature updates",
+    "local_file": "news_changelog.txt",
+    "char_count": 1203
+  }
+]
