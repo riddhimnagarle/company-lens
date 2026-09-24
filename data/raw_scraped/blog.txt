@@ -1,0 +1,111 @@
+SOURCE_URL: https://posthog.com/blog
+PAGE_TYPE: blog
+SCRAPE_DATE: 2026-09-23
+TITLE: Blog - PostHog
+========================================
+
+Blog - PostHog
+Products
+Pricing
+Docs
+Community
+Company
+More
+Get started – free
+Blog
+Everything else
+Select...
+All
+Product updates
+Explainers
+Engineering
+AI
+CEO diaries
+Release notes
+Guides
+Marketing
+Culture
+PostHog news
+ClickHouse
+Inside PostHog
+Open source
+Y Combinator
+Product engineers
+Growth
+AI observability
+Data warehouse
+Research
+Product
+Session replay
+Feature flags
+Startups
+Offsites
+Privacy
+People
+Workflows
+Logs
+Infrastructure
+DuckDB
+Product metrics
+Using PostHog
+User research
+Replay Vision
+Studies
+Context Warehouse
+Data Modeling
+Founders
+Self-driving
+Hiring
+Tracing
+Endpoints
+Customer analytics
+Ops & finance
+Error tracking
+Experiments
+YouTube
+Data pipelines
+Product analytics
+What we learned from our first 400k Replay Vision scans
+In August we launched  Replay Vision , our AI layer over Session Replay
+Sep 22, 2026 · Cory Slater · 19 min read
+To build or buy feature flags: Non-obvious things to know
+AI agents are causing teams to consider whether they should build their own version of tools they pay for
+Sep 16, 2026 · Ian Vanagas · 7 min read
+6-7 loops we use every day to make PostHog self-driving
+Six or seven loops we use to build self-driving in PostHog, from agent feedback to scouts that fix their own instructions
+Sep 15, 2026 · Andy Maguire · 14 min read
+From 1 to 100 IRL events in a year: The secret to getting engineers to demo
+How PostHog gets product engineers out to over 100 IRL events a year to speak, demo, and talk to customers – without twisting any arms
+Sep 9, 2026 · Daniel Zaltsman · 8 min read
+Multimodal models need video. We froze time to give it to them
+How we turn session replays into video for Replay Vision, and how Chrome's beginFrame fixed our rasterizer under load
+Sep 9, 2026 · Tue Haulund · 8 min read
+How to turn your data into content with PostHog
+How we went from a mountain of first-party data to a published article in a few days
+Aug 27, 2026 · Natalia Amorim · 8 min read
+Your startup shouldn't have merch
+Lots of people praise PostHog's  merch
+Aug 25, 2026 · Ian Vanagas · 8 min read
+Mind the context gap
+Every data vendor describes AI readiness from inside their own slice of the stack
+Aug 24, 2026 · Lizzie Epton · 7 min read
+Nobody watches their session replays. We studied 7.7 million views to prove it
+We timed 7.65M session replay views
+Aug 24, 2026 · Natalia Amorim · 6 min read
+Building a semantic layer: What it is and how we did it at PostHog
+A semantic layer is a governed catalog of definitions that sits on top of your existing data and tells agents and people what to trust
+Aug 19, 2026 · Thiago Rocha Salvatore · 9 min read
+The most common questions about developer marketing, answered
+PostHog's marketing lead answers the questions he gets asked most about developer marketing, covering channels, billboards, merch, community, and who to hire first
+Aug 14, 2026 · Joe Black · 12 min read
+I bribe customers to talk to me
+Customers don't owe you their attention
+Aug 13, 2026 · Jake Sciotto · 5 min read
+← Previous
+Page
+1
+of
+25
+Next →
+Blog
+Copy RSS link

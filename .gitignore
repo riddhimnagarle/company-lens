@@ -17,6 +17,7 @@ __pycache__/
 # Local Vector Database & Cache
 data/vector_db/
 *.sqlite3
+.gradio/
 
 # IDE / OS files
 .vscode/

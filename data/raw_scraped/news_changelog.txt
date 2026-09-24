@@ -1,0 +1,66 @@
+SOURCE_URL: https://ghost.org/changelog/
+PAGE_TYPE: news
+SCRAPE_DATE: 2026-09-20
+TITLE: Ghost Changelog — The latest feature updates
+------------------------------------------------------------
+Aug
+27
+Gift subscription improvements
+Personalized delivery, more gift lengths, and gifting in Portal
+Aug 27, 2026
+Improved
+Aug
+07
+Analytics for email sequences
+Understand how your automated emails are performing
+Aug 7, 2026
+Improved
+Jul
+16
+Optimize your site for AI search
+Give AI tools a clearer way to find and recommend your work
+Jul 16, 2026
+New
+Jul
+06
+Publisher gift links
+Gift anyone access to paywalled content
+Jul 6, 2026
+New
+Jun
+24
+Email sequences for new members
+Welcome new free and paid members with a series of automated emails over time
+Jun 24, 2026
+Beta
+Jun
+18
+Your new admin toolbar
+Quick admin access for your publication's staff users
+Jun 18, 2026
+New
+Jun
+11
+Dynamic filters for members
+Save member views that stay current on their own
+Jun 11, 2026
+Improved
+Jun
+04
+Expanding your social presence
+Connect more of your profiles to your publication, and bring your existing followers to Ghost
+Jun 4, 2026
+New
+May
+27
+Comment threads, votes and pins
+Deeper threading for replies, smarter sorting, and pinned comments to guide conversation
+May 27, 2026
+Improved
+May
+21
+Gift subscriptions
+Turn your most engaged readers into a referral channel for paid memberships
+May 21, 2026
+New
+Load more

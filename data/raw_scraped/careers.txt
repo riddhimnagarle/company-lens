@@ -1,0 +1,69 @@
+SOURCE_URL: https://careers.ghost.org/
+PAGE_TYPE: careers
+SCRAPE_DATE: 2026-09-20
+TITLE: Ghost
+------------------------------------------------------------
+Help create the creator economy.
+Ecommerce redefined how people buy products, the creator economy is redefining how people buy content. Ghost makes independent technology for creators to publish online and build a sustainable subscription business to fund their work.
+The world has changed, and media is struggling to change with it.
+The internet fuelled advertising-driven business models where all that mattered was capturing as many eyeballs as possible. The resulting economy brought us clickbait, outrage, fake news, and a fraught competition for your attention.
+Today,
+creators are choosing a new model where they have a direct relationship with an audience who pay a subscription to receive their content. The incentives are aligned, and the audience is the customer, not the product being sold.
+At Ghost, we're a very small team creating a very large platform that's redefining how people are publishing online. The opportunity ahead for subscription commerce is hard to overstate, and we're looking for people who can help turn our dream for the future of publishing into a reality.
+We work differently to most other companies.
+We're a non-profit organisation, we give away all of the intellectual property and software we build as free and open source, we have a distributed international team spread all over the world,
+we're completely self-funded with no shareholders or VCs in the background influencing decisions, and we're committed to staying small, never growing our team to more than around 50 people.
+We have only two goals at Ghost: To create a product we're incredibly proud of, and a company that provides a great life to the team building it. To achieve those goals we've thrown away most other traditional measures of success.
+We optimise for making the best product we can, rather than the one that makes the most money. We're cultivating a team of people we love working with, rather than one which is the biggest or most efficient. The structure of the company was chosen as a forcing factor. What happens when you have a business that can never be bought or sold? It turns out that you make a lot of decisions that optimise for building a company you're happy to be stuck with.
+The alternative paths and artificial constraints we've chosen to adopt have been the seeds for a remarkable amount of creativity. Limiting our ambition has, in so many ways, been exactly what has attracted people and fuelled our success.
+We've worked remotely since 2013 and, though everyone does it now, the way in which we've done it has always been to give people freedom and trust to do their best work — and live a fulfilling life beyond work. You wont find endless Zoom calls, full calendars, petty process or exhausting career politics here. Just a calm, creative group of humans enjoying challenging problems at the junction between art, science and engineering.
+Aside from during volcanic eruptions and global pandemics, the whole team gets together in-person for a week-long retreat twice a year. Our last few trips have taken us to Spain, Thailand, Dubai, Egypt and Austria.
+Perks included with every role at Ghost.
+💵 Competitive salary
+Based on role, skill, experience and location.
+🌍 Work from anywhere
+From a home office, or travel continuously if that's your thing. Everything we do is online. As long as you have wifi, you're all set.
+💻 Hardware included
+A new (and regularly refreshed) laptop for work + a $500 office workspace setup budget.
+🏢 Co-working covered
+If you prefer to work from a co-working space, we'll help pay for it.
+📚 Continue your personal development
+There's a budget for attending conferences, taking courses, and purchasing books.
+✈️ Team retreats
+The last few trips have taken us to Dubai, Thailand, Austria & Egypt.
+📅 Four day work week
+Enjoy 3 day weekends year-round.
+🏝 Generous paid vacation
+We close the office for 2 weeks each December, and encourage everyone to take regular time off from work to relax.
+👶 Paid parental leave
+When the time comes to welcome a new member of the family, we offer generous and fully paid parental leave.
+📈 Regular pay reviews
+Everyone receives an annual pay review, with compensation updates based on performance.
+🧘‍♀️ Meeting-free focus
+Most people at Ghost only have 1 or 2 zoom calls a week. We like to keep calendars empty & leave plenty of space for focusing on creative work.
+We're looking for people with a balanced perspective.
+Our team is made up of a group of incredibly smart, kind people who get shit done. People who are comfortable taking on big ideas and figuring out the details along the way tend to enjoy the light-touch level of process that we use. People with dreams and ambitions beyond their career tend to appreciate our unapologetic focus on balance and freedom, rather than just all-work, all-the-time.
+We want driven people who move fast and ship, getting things done even in the absence of a complete plan. We also want people who are patient and calm, accepting that most things will be mostly imperfect most of the time. We especially value people who are capable and responsible, who don't wait to be told what to do next.
+People who thrive in traditional corporate structures and office environments often do not enjoy the experience here. There's a lot of free-form collaboration and experimentation which means it's both harder to coast along doing the minimum, or play politics to climb the career ladder. Our team is passionate about their craft and talented at what they do, but none of us take ourselves or the world around us too seriously. We laugh at ourselves, and each other, a lot — so there isn't much room for self-importance.
+You won't find any lengthy manifestos here, nor breathless memos about how we're "fixing media" or "changing the world", because people who do particularly well at Ghost tend to be self-aware, and share a common allergy to nonsense.
+Behind the scenes
+Building an Open-Source Publishing Platform That Makes [$500,000]/mo - John O'Nolan of Ghost
+www.indiehackers.com
+Pursuing a Mission While Bootstrapping to Millions [The followup]
+www.indiehackers.com
+Ghost 5.0 — A new business model for publishing
+www.producthunt.com
+The top 10 fully remote companies to work for in 2022
+www.cnbc.com
+The challenging path ahead of us.
+As the creator economy comes to life, there's an incredible amount of interest and excitement about an entirely new sector of the market — not just from creators themselves, but from companies and platforms who want to capitalise on something new. We are not the only team working in this space.
+Ghost is unique in that we build decentralised, open technology that allows people to own and control their own destiny.
+Building software that's decentralised, open, and can be installed anywhere is fundamentally more difficult than building centralised platform. It requires more advanced engineering, more compute power, more marketing, documentation, education, and significantly more sophisticated customer support to handle the demands of our most successful customers.
+Our biggest challenge, by far, is in making advanced software be as friendly, accessible and straightforward to manage as possible. Lowering the barrier for people to feel comfortable running their own technology, and enjoying the freedom to build publications and businesses they control. Forever.
+Eventually decentralised, open technology always wins.
+The path to get there requires building a world class product, rock solid infrastructure, carefully crafted architecture, and a renowned service team. And that's where we're hoping you'll be able to help us, because we can't do it alone.
+We need you.
+Don't see the right position for you?
+Join our
+careers mailing list
+to be notified whenever we start hiring for new roles. We'll only ever email you about new positions, no marketing or promotions.
