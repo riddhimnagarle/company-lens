@@ -3,7 +3,7 @@ import os
 
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), "src"))
 # pyrefly: ignore [missing-import]
-from rag_chain import ask
+from graphs.agent import ask_agent as ask
 
 import gradio as gr
 
