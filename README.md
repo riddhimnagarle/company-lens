@@ -111,7 +111,6 @@ GROQ_API_KEY=your_groq_api_key_here
 ```bash
 python app.py
 ```
-Open your browser at `http://127.0.0.1:7860` or access the generated public share link.
 
 ---
 
