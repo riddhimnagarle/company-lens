@@ -1,5 +1,4 @@
 import os
-import time
 from dotenv import load_dotenv
 from langchain_google_genai import GoogleGenerativeAIEmbeddings
 from langchain_groq import ChatGroq
@@ -60,13 +59,6 @@ def ask(question: str) -> str:
     return rag_chain.invoke(question)
 
 if __name__ == "__main__":
-    questions = [
-        "What is Ghost and what does it do?",
-        "What kind of engineers is Ghost hiring?",
-        "What is Ghost's business model?"
-    ]
-    for q in questions:
-        print(f"\nQ: {q}")
-        print(f"A: {ask(q)}")
-        print("-" * 60)
-        time.sleep(15)
+    test_question = "What is Ghost and what does it do?"
+    print(f"\nQuestion: {test_question}")
+    print(f"Answer:\n{ask(test_question)}")

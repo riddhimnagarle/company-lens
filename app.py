@@ -49,7 +49,7 @@ h1 {
 
 """
 
-with gr.Blocks(theme=theme, title="CompanyLens") as app:
+with gr.Blocks(title="CompanyLens") as app:
     gr.ChatInterface(
         fn=respond,
         title="🔍 CompanyLens",
@@ -63,4 +63,4 @@ with gr.Blocks(theme=theme, title="CompanyLens") as app:
     )
 
 if __name__ == "__main__":
-    app.launch(share=True, css=custom_css)
+    app.launch(theme=theme, css=custom_css)

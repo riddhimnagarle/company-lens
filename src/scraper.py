@@ -140,12 +140,12 @@ class CompanyScraper:
 
 
 if __name__ == "__main__":
-    company_url = "https://posthog.com"
+    company_url = "https://ghost.org"
     target_pages = {
-        "about": "/about",
-        "careers": "/careers",
-        "blog": "/blog",
-        "changelog": "/changelog"
+        "about": "/about/",
+        "careers": "https://careers.ghost.org/",
+        "blog": "/resources/how-to-publish-your-first-post/",
+        "changelog": "/changelog/"
     }
     
     scraper = CompanyScraper(base_url=company_url)

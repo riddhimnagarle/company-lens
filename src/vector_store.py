@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 from langchain_core.documents import Document
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_google_genai import GoogleGenerativeAIEmbeddings
-from langchain_community.vectorstores import Chroma
+from langchain_chroma import Chroma
 
 # 1. Load Gemini API Key
 load_dotenv()
@@ -137,9 +137,11 @@ def test_retrieval(query: str, k: int = 3):
 
 
 if __name__ == "__main__":
-    # Build and embed the vector store
-    store = build_vector_store()
+    import sys
+    # Only rebuild if explicitly requested or if vector DB directory does not exist
+    if "--rebuild" in sys.argv or not os.path.exists(CHROMA_PERSIST_DIR):
+        build_vector_store()
     
-    # Run retrieval test (Official Day 2 Checkpoint!)
-    test_retrieval("What is the core product that PostHog offers?")
-    test_retrieval("What roles and engineers are they hiring?")
+    # Run retrieval test for Ghost
+    test_retrieval("What is Ghost and what does it do?")
+    test_retrieval("What roles and engineers is Ghost hiring?")

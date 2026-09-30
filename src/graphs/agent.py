@@ -1,13 +1,11 @@
 import os
 import sys
-from typing import TypedDict, List
-from dotenv import load_dotenv
+from typing import TypedDict
 
 # Ensure imports work from src
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 from rag_chain import retriever, llm, prompt, format_docs
 
-from langchain_core.documents import Document
 from langchain_core.output_parsers import StrOutputParser
 from langgraph.graph import StateGraph, END
 
