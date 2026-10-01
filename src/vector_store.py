@@ -64,7 +64,7 @@ def load_documents_from_folder(folder_path: str = "data/raw_scraped") -> list[Do
 
         body_text = "\n".join(lines[body_start_index:]).strip()
         
-        # SMART FIX: If a file is massive (like changelog), keep the most recent 25,000 chars!
+        
         if len(body_text) > 25000:
             print(f" [TRIM] {metadata['title']} was huge ({len(body_text)} chars). Keeping most recent 25,000 chars.")
             body_text = body_text[:25000]
@@ -99,7 +99,7 @@ def build_vector_store(folder_path: str = "data/raw_scraped") -> Chroma:
         embedding_function=embeddings
     )
 
-    # Safe batching: Add 20 chunks at a time with a 2-second polite pause
+    
     batch_size = 20
     print(f"[VECTOR_DB] Embedding chunks safely in batches of {batch_size}...")
     
@@ -108,7 +108,7 @@ def build_vector_store(folder_path: str = "data/raw_scraped") -> Chroma:
         print(f" -> Embedding chunks {i+1} to {min(i+batch_size, total_chunks)} of {total_chunks}...")
         vector_store.add_documents(batch)
         if i + batch_size < total_chunks:
-            time.sleep(2.0)  # Stay safely below the 100/min rate limit
+            time.sleep(2.0)  
 
     print(f"[VECTOR_DB] SUCCESS! All chunks safely embedded and saved to '{CHROMA_PERSIST_DIR}'.")
     return vector_store
@@ -138,10 +138,10 @@ def test_retrieval(query: str, k: int = 3):
 
 if __name__ == "__main__":
     import sys
-    # Only rebuild if explicitly requested or if vector DB directory does not exist
+    
     if "--rebuild" in sys.argv or not os.path.exists(CHROMA_PERSIST_DIR):
         build_vector_store()
     
-    # Run retrieval test for Ghost
+    
     test_retrieval("What is Ghost and what does it do?")
     test_retrieval("What roles and engineers is Ghost hiring?")

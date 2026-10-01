@@ -50,11 +50,11 @@ class CompanyScraper:
         for attempt in range(1, max_retries + 1):
             try:
                 print(f"[FETCH] (Attempt {attempt}/{max_retries}) Downloading: {url}")
-                time.sleep(1.0)  # Polite crawl delay
+                time.sleep(1.0)  
                 
                 response = requests.get(url, headers=HEADERS, timeout=10)
                 
-                # Graceful failure handling on missing pages
+                
                 if response.status_code == 404:
                     print(f"[WARN] 404 Not Found on {url} - Skipping gracefully.")
                     return ""
@@ -65,7 +65,7 @@ class CompanyScraper:
             except requests.exceptions.RequestException as e:
                 print(f"[WARN] Network issue on {url}: {e}")
                 if attempt < max_retries:
-                    wait_time = 2 ** attempt  # 2s, 4s backoff
+                    wait_time = 2 ** attempt  
                     print(f"[RETRY] Waiting {wait_time}s before retry...")
                     time.sleep(wait_time)
                 else:
@@ -117,7 +117,7 @@ class CompanyScraper:
                 print(f"[WARN] Text suspiciously short ({len(clean_text)} chars). Skipping.\n")
                 continue
 
-            # Official metadata header for RAG citations
+            
             file_content = (
                 f"SOURCE_URL: {full_url}\n"
                 f"PAGE_TYPE: {page_type}\n"
