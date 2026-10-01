@@ -3,7 +3,7 @@ venv/
 env/
 .venv/
 
-# Secrets & Environment Variables (CRITICAL: NEVER COMMIT API KEYS!)
+# Secrets & Environment Variables
 .env
 *.env
 
